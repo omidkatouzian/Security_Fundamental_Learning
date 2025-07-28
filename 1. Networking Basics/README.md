@@ -6,7 +6,7 @@ This section provides foundational knowledge of computer networking, covering es
 
 ### 📚 Topics Covered
 
-- **What is a Network? (LAN / WAN / MAN)**(networking-basics/1.network_basics_lan_man_wan.md)
+- **What is a Network? (LAN / WAN / MAN)**(1. Networking Basics/1.network_basics_lan_man_wan.md)
 - **OSI Model**(networking-basics/2.osi_model_explained.md)
 - **TCP/IP Protocol Suite**(networking-basics/3.tcp_ip_protocol_suite_revised.md)
 - **IP Addressing (IPv4 / IPv6)**(networking-basics/4.ip_addressing_ipv4_ipv6.md)
