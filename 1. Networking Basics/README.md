@@ -20,4 +20,3 @@ This section provides foundational knowledge of computer networking, covering es
 - [Ports & Protocols (TCP/UDP, ICMP, HTTP, HTTPS, SSH...)](/1.%20Networking%20Basics/12.ports_protocols.md)
 - [Common Network Devices (Router, Switch, Firewall, Access Point)](/1.%20Networking%20Basics/13.common_network_devices.md)
 - [SD-WAN and NFV – Modern Networking Technologies](/1.%20Networking%20Basics/14.sd-wan_nfv.md)
-- 
